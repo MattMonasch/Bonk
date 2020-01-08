@@ -1,0 +1,3 @@
+          // collision point is average of overlapDist
+          // Offset collisionPoint = .5 * (ballA.pos + (ballRadius*collisionNormal));
+          // Offset collisionPoint = ((collisionNormal * ballRadius) + ballA.pos) * .5 + ((collisionNormal * ballRadius) + ballB.pos) * .5;
