@@ -1,16 +1,7 @@
-# widget_tutorial
+# Bonk
 
-A new Flutter project.
+A demo in Flutter/dart showcasing improvements of Spatial Partitioning over a finite 2D field with uniform actors
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This demo was created as a technical presentation piece for an interview. Slides can be found here: https://docs.google.com/presentation/d/1YMDrOf1aeo_Y0mde4mCwlodVndQ2uqfx_tcsTDY_nrQ/edit?usp=sharing
